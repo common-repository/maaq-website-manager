@@ -1,0 +1,6 @@
+{
+    "require": {
+        "woocommerce/action-scheduler": "^3.7.3",
+        "chillerlan/php-qrcode": "^5.0.2"
+    }
+}
